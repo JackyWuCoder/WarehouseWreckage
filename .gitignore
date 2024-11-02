@@ -73,5 +73,9 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-# Starter Content
-Content/StarterContent/
+# Ignore everything in StarterContent
+Content/StarterContent/*
+
+# But don't ignore the Maps folder and its contents
+!Content/StarterContent/Maps/
+
