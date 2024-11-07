@@ -79,3 +79,6 @@ Content/StarterContent/*
 # But don't ignore the Maps folder and its contents
 !Content/StarterContent/Maps/
 
+# Ignore everything in IndustryPropsPack6/
+Content/IndustryPropsPack6/Textures/*
+
